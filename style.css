@@ -1,0 +1,12 @@
+body{
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=770&q=80);
+    background-size: cover;
+    background-position: center center;
+}
+.ui{
+    background-color: cadetblue;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
